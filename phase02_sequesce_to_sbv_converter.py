@@ -58,6 +58,7 @@ class SBVConverter:
         self.dialogue_index_map = {}  # 일본어 텍스트로 대사 매핑
         self.output_dir = Path.cwd() / "output"
         self.output_dir.mkdir(exist_ok=True)
+        self.missing_translations = {'ko': 0, 'en': 0, 'ja': 0}  # 번역 없음 카운트
         
     def load_files_gui(self):
         """GUI 파일 다이얼로그로 파일 선택"""
@@ -275,6 +276,7 @@ class SBVConverter:
             SBV 형식의 문자열
         """
         sbv_lines = []
+        missing_count = 0  # 현재 언어의 번역 없음 카운트
         
         for entry in self.sequence_data:
             # 타임코드 추가
@@ -299,6 +301,7 @@ class SBVConverter:
                     else:
                         # 다른 언어는 표시할 내용이 없으면 스킵
                         caption_texts.append(f"[번역 없음: {japanese_text[:30]}...]")
+                        missing_count += 1
             
             # 자막 텍스트 결합
             if caption_texts:
@@ -307,6 +310,9 @@ class SBVConverter:
                 sbv_lines.append('')  # 빈 자막
                 
             sbv_lines.append('')  # 빈 줄 추가
+        
+        # 번역 없음 카운트 저장
+        self.missing_translations[language] = missing_count
             
         return '\n'.join(sbv_lines)
         
@@ -336,22 +342,12 @@ class SBVConverter:
         print("=" * 50)
         print(f"총 자막 엔트리: {len(self.sequence_data)}개")
         
-        # 샘플 출력
-        if self.sequence_data:
-            print("\n📝 첫 번째 자막 샘플:")
-            print("-" * 30)
-            sample = self.sequence_data[0]
-            print(f"시간: {sample['start']} → {sample['end']}")
-            for text in sample['texts'][:2]:
-                print(f"  화자: {text['speaker']}")
-                print(f"  일본어: {text['text'][:50]}...")
-                
-                # 매칭된 한국어/영어 찾기
-                matched = self.find_matching_dialogue(text['text'])
-                if matched:
-                    print(f"  한국어: {matched['lines']['ko'][:50]}...")
-                    print(f"  영어: {matched['lines']['en'][:50]}...")
-
+        # 번역 없음 통계 출력
+        print("\n⚠️ 번역 없음 항목:")
+        print(f"  - 한국어(ko): {self.missing_translations.get('ko', 0)}개")
+        print(f"  - 영어(en): {self.missing_translations.get('en', 0)}개")
+        if self.missing_translations.get('ja', 0) > 0:
+            print(f"  - 일본어(ja): {self.missing_translations.get('ja', 0)}개")
 
 def main():
     """메인 실행 함수"""
