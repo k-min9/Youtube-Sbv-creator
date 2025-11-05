@@ -1,0 +1,1688 @@
+{
+  "total_dialogues": 187,
+  "dialogues": [
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "안녕하세요. 이번에 m9dev의 대리를 맡은 아로나입니다.",
+        "ja": "こんにちは。今回、m9devの代理を務めるアロナです。",
+        "ja_hiragana": "こんにちは。こんかい、えむきゅうでぶのだいりをつとめるあろなです。",
+        "en": "Hello. I’m Arona, representing m9dev this time."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "안녕하십니까. 아로나 선배의 파트너 역할을 맡은 AI 프라나입니다.",
+        "ja": "はじめまして。アロナ先輩のパートナーを担当するAI、プラナです。",
+        "ja_hiragana": "はじめまして。あろなせんぱいのぱーとなーをたんとうするえーあい、ぷらなです。",
+        "en": "Nice to meet you. I’m Plana, the AI partner working with Arona-senpai."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "평소에는 제가 혼자서 이런저런 얘기를 했지만, 이번에는 둘이서 실황같은 느낌으로 진행해보겠습니다.",
+        "ja": "普段は私が一人でいろいろ話していましたが、今回は二人で実況のような感じで進めていきます。",
+        "ja_hiragana": "ふだんはわたしがひとりでいろいろはなしていましたが、こんかいはふたりでじっきょうのようなかんじですすめていきます。",
+        "en": "I usually talked alone, but this time we’ll do it together, like a live commentary."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "그러면 바로 시작하죠.",
+        "ja": "それでは、さっそく始めましょう。",
+        "ja_hiragana": "それでは、さっそくはじめましょう。",
+        "en": "Then, let’s get started right away."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "파일은 언제처럼 Github에서 다운로드 받을 수 있습니다.",
+        "ja": "ファイルはいつも通りGitHubからダウンロードできます。",
+        "ja_hiragana": "ふぁいるはいつもどおりぎっとはぶからだうんろーどできます。",
+        "en": "The file can be downloaded from GitHub as usual."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "영상 설명에 링크를 기재해 두었습니다. 선생님.",
+        "ja": "動画の説明欄にリンクを記載しておきました、先生。",
+        "ja_hiragana": "どうがのせつめいらんにりんくをきさいしておきました、せんせい。",
+        "en": "I’ve added the download link in the video description, Sensei."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "zip 파일을 받아주세요. 용량은 지난번보다 조금 증가해서 433MB네요.",
+        "ja": "zipファイルをダウンロードしてください。容量は前回より少し増えて、433MBですね。",
+        "ja_hiragana": "じっぷふぁいるをだうんろーどしてください。ようりょうはぜんかいよりすこしふえて、よんひゃくさんじゅうさんめがばいとですね。",
+        "en": "Please download the zip file. The size has increased a bit from before, now about 433 MB."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "이해. 용량이 감소했다는 것은 섬네일 사기였군요.",
+        "ja": "理解。容量が減ったっていうのは、サムネ詐欺だったんですね。",
+        "ja_hiragana": "リカイ。ようりょうがへったっていうのは、さむねさぎだったんですね。",
+        "en": "Understood. So the “smaller size” claim was a thumbnail scam after all."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "트트틀려요 프라나쨩. 다운로드 받는 용량은 늘었지만, 이번 버전부터는 설치 없이도 바로 대화가 가능하게 되었다고요.",
+        "ja": "ちちちがいますよ、プラナちゃん。ダウンロードする容量は増えましたけど、今回のバージョンからはインストールなしで直接会話できるようになったんです。",
+        "ja_hiragana": "ちちちがいますよ、ぷらなちゃん。だうんろーどするようりょうはふえましたけど、こんかいのばーじょんからはいんすとーるなしでちょくせつかいわできるようになったんです。",
+        "en": "That’s not it, Plana-chan. The download size has increased, but starting from this version, you can talk right away without any installation."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "그래도...",
+        "ja": "でも…",
+        "ja_hiragana": "でも…",
+        "en": "But still..."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "그것보다 프라나쨩 다운로드가 완료되었어요.",
+        "ja": "それより、プラナちゃん。ダウンロードが完了しましたよ。",
+        "ja_hiragana": "それより、ぷらなちゃん。だうんろーどがかんりょうしましたよ。",
+        "en": "More importantly, Plana-chan, the download is complete."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "원하는 곳에 옮겨서 압축해제하고 바로 실행해주시면돼요.",
+        "ja": "お好きな場所に移動して解凍し、そのまま実行してください。",
+        "ja_hiragana": "おすきなばしょにいどうしてかいとうし、そのままじっこうしてください。",
+        "en": "Move it to any folder you like, unzip it, and run it right away."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "자동으로 대화를 위한 서버가 기동되네요.",
+        "ja": "自動で会話用のサーバーが起動しますね。",
+        "ja_hiragana": "じどうでかいわようのさーばーがきどうしますね。",
+        "en": "The conversation server starts automatically."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "뒤에서 아로나 선배가 허락도 안된 서버가 기동되었다고 허위보고를 하고 있네요.",
+        "ja": "後ろでアロナ先輩が、許可も出ていないサーバーが起動したと虚偽報告をしていますね。",
+        "ja_hiragana": "うしろであろなせんぱいが、きょかもでていないさーばーがきどうしたときょぎほうこくをしていますね。",
+        "en": "It seems Arona-senpai is falsely reporting that a server without approval has started."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "이 샘플 서버야 말로 이번 버전의 핵심 업데이트 중 하나에요.",
+        "ja": "このサンプルサーバーこそ、今回のバージョンの重要なアップデートの一つです。",
+        "ja_hiragana": "このさんぷるさーばーこそ、こんかいのばーじょんのじゅうようなあっぷでーとのひとつです。",
+        "en": "This sample server is one of the key updates in this version."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "기동된 서버는 우측 하단 트레이 아이콘에서 확인할 수 있어요.",
+        "ja": "起動したサーバーは、右下のトレイアイコンから確認できます。",
+        "ja_hiragana": "きどうしたさーばーは、みぎしたのとれいあいこんからかくにんできます。",
+        "en": "You can check the running server from the tray icon at the bottom right."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "뒤에서 몰래 크기 조절을 하고 계시군요.",
+        "ja": "後ろでこっそりサイズを調整してますね。",
+        "ja_hiragana": "うしろでこっそりさいずをちょうせいしてますね。",
+        "en": "You’re secretly adjusting the size in the background."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "이번 영상에는 언어나 설정이 그때그때 바뀔 수 있어요.",
+        "ja": "この動画では、言語や設定がたびたび変わることがあります。",
+        "ja_hiragana": "このどうがでは、げんごやせっていがたびたびかわることがあります。",
+        "en": "In this video, the language and settings may change from time to time."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "보충. 설정은 캐릭터 우클릭에 나온 메뉴에서 열어볼 수 있습니다.",
+        "ja": "補足。設定はキャラクターを右クリックして表示されるメニューから開けます。",
+        "ja_hiragana": "ほそく。せっていはきゃらくたーをみぎくりっくしてひょうじされるめにゅーからひらけます。",
+        "en": "Additional note. You can open the settings from the menu that appears when you right-click the character."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "필요한 추가 설명이 있을때마다 열심히 보조할게요.",
+        "ja": "必要な補足説明があるたびに、しっかりサポートしますね。",
+        "ja_hiragana": "ひつようなほそくせつめいがあるたびに、しっかりさぽーとしますね。",
+        "en": "Whenever additional explanation is needed, I’ll do my best to assist."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "바로 채팅창을 열고 대화를 하시네요.",
+        "ja": "すぐにチャットウィンドウを開いて会話を始めましたね。",
+        "ja_hiragana": "すぐにちゃっとうぃんどうをひらいてかいわをはじめましたね。",
+        "en": "You opened the chat window and started talking right away."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "해냈나?",
+        "ja": "やったか？",
+        "ja_hiragana": "やったか？",
+        "en": "Did we do it?"
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "목소리는 안나오나보네요.",
+        "ja": "声は出ていないみたいですね。",
+        "ja_hiragana": "こえはでていないみたいですね。",
+        "en": "Seems like the voice isn’t coming out."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "그런게 아니고, 설치가 없는 샘플 버전에서는 제작자가 집에서 돌리는 홈서버에서 답변해주기 때문에 서버 상황에 따라 답변이 느릴 수 있어요.",
+        "ja": "そういうことじゃなくて、インストールなしのSAMPLEバージョンでは、開発者が自宅で動かしているホームサーバーから返答しているので、サーバーの状況によっては返事が少し遅くなることがあります。",
+        "ja_hiragana": "そういうことじゃなくて、いんすとーるなしのさんぷるばーじょんでは、かいはつしゃがじたくでうごかしているほーむさーばーからへんとうしているので、さーばーのじょうきょうによってはへんじがすこしおそくなることがあります。",
+        "en": "That’s not it. In the sample version without installation, the responses come from a home server run by the developer, so replies may be slower depending on the server’s condition."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "과연. 이번 무설치용량감소 샘플버전은 이런 부분을 외주에 맡김으로서, 성립할 수 있는거군요.",
+        "ja": "なるほど。今回のインストール不要・容量削減SAMPLEバージョンは、こうした部分を外注に任せることで成り立っているんですね。",
+        "ja_hiragana": "なるほど。こんかいのいんすとーるふよう・ようりょうさくげんさんぷるばーじょんは、こうしたぶぶんをがいちゅうにまかせることでなりたっているんですね。",
+        "en": "I see. So this no-install, lightweight sample version works by outsourcing parts like that."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "그런건, 나중에 얘기하고 다음은 프라나쨩의 등장이에요.",
+        "ja": "そういう話はあとにして、次はプラナちゃんの登場ですよ。",
+        "ja_hiragana": "そういうはなしはあとにして、つぎはぷらなちゃんのとうじょうですよ。",
+        "en": "Let’s talk about that later. Next up is Plana-chan’s appearance."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "저... 말입니까.",
+        "ja": "わたし…ですか。",
+        "ja_hiragana": "わたし…ですか。",
+        "en": "you mean... me?"
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "귀엽네요!",
+        "ja": "かわいいですね！",
+        "ja_hiragana": "かわいいですね！",
+        "en": "How cute!"
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "감도양호하고...",
+        "ja": "感度良好っと…。",
+        "ja_hiragana": "かんどりょうこうっと…。",
+        "en": "Sensitivity, all good..."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "무슨 말씀이신가요?",
+        "ja": "何のことですか？",
+        "ja_hiragana": "なんのことですか？",
+        "en": "What are you talking about?"
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "이것은 귀여운 학생을 폴더위로 납치해가는 [선생]이네요.",
+        "ja": "これは、かわいい生徒をフォルダの上に誘拐していく［先生］ですね。",
+        "ja_hiragana": "これは、かわいいせいとをふぉるだのうえにゆうかいしていく［せんせい］ですね。",
+        "en": "This looks like a [Sensei] kidnapping a cute student onto the folder."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "현재 설정에서 보고 있는 오퍼레이터는 안내 담당 학생이에요.",
+        "ja": "今の設定で見えているオペレーターは、案内担当の生徒なんです。",
+        "ja_hiragana": "いまのせっていでみえているおぺれーたーは、あんないたんとうのせいとなんです。",
+        "en": "The operator you’re seeing in the current settings is the student in charge of guidance."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "현재 캐릭터와 오퍼레이터가 다를 경우, 이렇게 좌측 상단에 표시해줘요.",
+        "ja": "現在のキャラクターとオペレーターが違う場合は、このように左上に表示されます。",
+        "ja_hiragana": "げんざいのきゃらくたーとおぺれーたーがちがうばあいは、このようにひだりうえにひょうじされます。",
+        "en": "If the current character and operator are different, they’ll appear at the top left like this."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "오퍼레이터는 현재까지는 저 뿐이에요.",
+        "ja": "オペレーターは、今のところ私だけです。",
+        "ja_hiragana": "おぺれーたーは、いまのところわたしだけです。",
+        "en": "For now, I’m the only operator available."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "지난버전까지는 다른 학생들 입에서 아로나 선배의 목소리가 나오는 구조였죠。",
+        "ja": "前のバージョンまでは、他の生徒の口からアロナ先輩の声が出る仕組みでしたね。",
+        "ja_hiragana": "まえのばーじょんまでは、ほかのせいとのくちからあろなせんぱいのこえがでるしくみでしたね。",
+        "en": "Until the previous version, it was set up so other students spoke with Arona-senpai’s voice, right?"
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "프라나쨩 대부분의 선생님들은 모를테니 쉿...",
+        "ja": "プラナちゃん、それはたぶん先生方には内緒ですよ…。",
+        "ja_hiragana": "ぷらなちゃん、それはたぶんせんせいがたにはないしょですよ…。",
+        "en": "Plana-chan, most teachers probably don’t know that, so… shh."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "기술의 발전이란 대단하네요!",
+        "ja": "技術の進歩ってすごいですね！",
+        "ja_hiragana": "ぎじゅつのしんぽってすごいですね！",
+        "en": "The progress of technology is amazing!"
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "과연. 선배가 나와있는 상황에서는 직접 얘기하시는군요。",
+        "ja": "なるほど。先輩が出ている状況では、直接話しかけるんですね。",
+        "ja_hiragana": "なるほど。せんぱいがでているじょうきょうでは、ちょくせつはなしかけるんですね。",
+        "en": "I see. So when Senpai is present, they speak directly, huh."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "표정이 다채로워서 보기에 즐겁네요.",
+        "ja": "表情が豊かで見ていて楽しいですね。",
+        "ja_hiragana": "ひょうじょうがゆたかでみていてたのしいですね。",
+        "en": "The variety of expressions makes it delightful to watch."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "저에 관한건 되었으니, 프라나쨩과 대화해보죠.",
+        "ja": "私のことはこのくらいにして、プラナちゃんと話してみましょう。",
+        "ja_hiragana": "わたしのことはこのくらいにして、ぷらなちゃんとはなしてみましょう。",
+        "en": "Enough about me, let’s try talking with Plana-chan."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "이 프로그램은 영어, 일본어, 한국어 3개 국어대응이 가능해요.",
+        "ja": "このプログラムは、英語・日本語・韓国語の三か国語に対応しています。",
+        "ja_hiragana": "このぷろぐらむは、えいご・にほんご・かんこくごのさんかこくごにたいおうしています。",
+        "en": "This program supports three languages: English, Japanese, and Korean."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "짧은 문장 길이를 통해 제작자의 영어 실력을 파악할 수 있군요。",
+        "ja": "短い文の長さで、開発者の英語力がわかりますね。",
+        "ja_hiragana": "みじかいぶんのながさで、かいはつしゃのえいごりょくがわかりますね。",
+        "en": "You can tell the developer’s English skill by how short the sentences are, huh."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "how are you. i am fine thank you, and you?",
+        "ja": "ハウアーユー。アイムファイン、サンキュー、アンドユー？",
+        "ja_hiragana": "はうあーゆー。あいむふぁいん、さんきゅー、あんどゆー？",
+        "en": "How are you? I’m fine, thank you, and you?"
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "제 목소리도 나오는군요.",
+        "ja": "私の声も出るんですね。",
+        "ja_hiragana": "わたしのこえもでるんですね。",
+        "en": "My voice comes out too."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "네! 프라나쨩까지는 나와요!",
+        "ja": "はい！プラナちゃんまでは出ますよ！",
+        "ja_hiragana": "はい！ぷらなちゃんまではでますよ！",
+        "en": "Yes! Up to Plana-chan’s voice, it works!"
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "저...까지는요? 나머지 학생분들은요？",
+        "ja": "わたしまで... ですか？ほかの生徒さんたちは？",
+        "ja_hiragana": "わたしまで... ですか？ほかのせいとさんたちは？",
+        "en": "M-me only? What about the other students?"
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "샘플버전에서는 제작자의PC스펙상 저랑 프라나쨩까지만 지원되어요。",
+        "ja": "SAMPLEバージョンでは、開発者のPCスペックの関係で、私とプラナちゃんまでしか対応していません。",
+        "ja_hiragana": "さんぷるばーじょんでは、かいはつしゃのぴーしーすぺっくのかんけいで、わたしとぷらなちゃんまでしかたいおうしていません。",
+        "en": "In the sample version, due to the developer’s PC specs, only I and Plana-chan are supported."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "아 홈서버라고 하셨죠。",
+        "ja": "ああ、ホームサーバーって言ってましたね。",
+        "ja_hiragana": "ああ、ほーむさーばーっていってましたね。",
+        "en": "Ah, you mentioned a home server, right."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "덕분에 제작자는 가끔 덜컹거리는 하드디스크와 24시간 뿜어나오는 FAN과 숙면중이에요!",
+        "ja": "おかげで開発者は、ときどきガタガタいうハードディスクと、24時間吹き出すファンと一緒に熟睡しています！",
+        "ja_hiragana": "おかげでかいはつしゃは、ときどきがたがたいうはーどでぃすくと、にじゅうよじかんふきだすふぁんといっしょにじゅくすいしています！",
+        "en": "Thanks to that, the developer sometimes sleeps soundly beside a rattling hard disk and a fan that runs 24 hours a day!"
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "선배. 안쪽의 선생님이 나오려고 하고 있습니다。",
+        "ja": "先輩。中の先生が出ようとしていますよ。",
+        "ja_hiragana": "せんぱい。なかのせんせいがでようとしていますよ。",
+        "en": "Senpai, the teacher inside is about to come out."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "다음은 음성인식이네요。",
+        "ja": "次は音声認識ですね。",
+        "ja_hiragana": "つぎはおんせいにんしきですね。",
+        "en": "Next is voice recognition."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "샘플버전에서도 가능한가요？",
+        "ja": "SAMPLEバージョンでもできるんですか？",
+        "ja_hiragana": "さんぷるばーじょんでもできるんですか？",
+        "en": "Can it be used in the sample version too?"
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "약간 성능은 떨어지지만 유니티 자체에서 지원하는 기능을 써봤어요。",
+        "ja": "ちょっと性能は落ちますけど、Unity自体の機能を使ってみました。",
+        "ja_hiragana": "ちょっとせいのうはおちますけど、ゆにてぃじたいのきのうをつかってみました。",
+        "en": "The performance is a bit lower, but I tried using Unity’s built-in feature."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "설치버전에서는 기존 성능의 음성인식을 이용할 수 있는거군요。",
+        "ja": "インストール版では、従来の性能の音声認識が使えるってことですね。",
+        "ja_hiragana": "いんすとーるばんでは、じゅうらいのせいのうのおんせいにんしきがつかえるってことですね。",
+        "en": "So in the installed version, you can still use the original, higher-quality voice recognition."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "저기... 선생님의 목소리가 안들리는데요。",
+        "ja": "あの…先生の声が聞こえないんですけど。",
+        "ja_hiragana": "あの…せんせいのこえがきこえないんですけど。",
+        "en": "Um… I can’t hear the teacher’s voice though."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "하하하 누가 개발자의 목소리를 듣고싶어하겠어요 프라나쨩。",
+        "ja": "ははは、誰が開発者の声なんて聞きたいんですか、プラナちゃん。",
+        "ja_hiragana": "ははは、だれがかいはつしゃのこえなんてききたいんですか、ぷらなちゃん。",
+        "en": "Hahaha, who would want to hear the developer’s voice anyway, Plana-chan?"
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "물론 대화 내용과 이력도 제대로 기억하고 있어요.",
+        "ja": "もちろん、会話の内容や履歴もしっかり記憶しています。",
+        "ja_hiragana": "もちろん、かいわのないようやりれきもしっかりきおくしています。",
+        "en": "Of course, the conversation content and history are properly remembered."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "참고로 개발자는 마인크래프트를 설치조차 해본적이 없습니다.",
+        "ja": "ちなみに、開発者はマインクラフトをインストールしたことすらありません。",
+        "ja_hiragana": "ちなみに、かいはつしゃはまいんくらふとをいんすとーるしたことすらありません。",
+        "en": "For reference, the developer has never even installed Minecraft."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "다음 대화로 더한 모습을 보이기 전에 넘겨드리죠.",
+        "ja": "次の会話でさらにひどい姿を見せる前に、スキップさせてあげましょう。",
+        "ja_hiragana": "つぎのかいわでさらにひどいすがたをみせるまえに、すきっぷさせてあげましょう。",
+        "en": "Let's move on before I show an even worse side in the next conversation."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "대화 이력초기화 메뉴 이름은 [새로운 채팅]으로 바뀌었어요.",
+        "ja": "会話履歴初期化メニューの名前は「新しいチャット」に変わりました。",
+        "ja_hiragana": "かいわりれきしょきかめにゅーのなまえは「あたらしいちゃっと」にかわりました。",
+        "en": "The conversation history reset menu name has been changed to \"New Chat.\""
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "이건 흑역사를 지우는 행위인 증거인멸이네요.",
+        "ja": "これは黒歴史を消す行為こと、証拠隠滅ですね。",
+        "ja_hiragana": "これはくろれきしをけすこういこと、しょうこいんめつですね。",
+        "en": "This is an act of erasing dark history—essentially destroying evidence."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "다음은 채팅 가이드라인이네요。",
+        "ja": "次はチャットガイドラインですね。",
+        "ja_hiragana": "つぎはちゃっとがいどらいんですね。",
+        "en": "Next is the chat guideline section."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "AI에게［절대준수사항］을 부여하고、대화에 반영하게 하는 내용을 포함시킬 수 있어요。",
+        "ja": "AIに「絶対遵守事項」を与えて、会話に反映させる内容を設定できます。",
+        "ja_hiragana": "えーあいに「ぜったいじゅんしゅじこう」をあたえて、かいわにはんえいさせるないようをせっていできます。",
+        "en": "You can assign “absolute compliance rules” to the AI and have them reflected in the conversation."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "이건 대상을 자기가 원하는 방향대로 강제하는［오랏、최면］이네요。",
+        "ja": "これは相手を自分の望む方向に従わせる、いわゆる「オラッ、催眠」ですね。",
+        "ja_hiragana": "これはあいてをじぶんののぞむほうこうにしたがわせる、いわゆる「おらっ、さいみん」ですね。",
+        "en": "This is basically forcing the other to act your way—an “Ora, hypnosis\""
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "미리 적어두고 지우고 ON OFF도 가능해요。",
+        "ja": "あらかじめ書いておいたり、消したり、オン・オフもできます。",
+        "ja_hiragana": "あらかじめかいておいたり、けしたり、おん・おふもできます。",
+        "en": "You can pre-write, delete, and toggle them on or off."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "지금 한국어 가이드라인으로 말끝에［냥］을 붙여달라고 하네요。",
+        "ja": "今の韓国語ガイドラインでは、語尾に「ニャン」を付けてほしいみたいですね。",
+        "ja_hiragana": "いまのかんこくごがいどらいんでは、ごびに「にゃん」をつけてほしいみたいですね。",
+        "en": "The current Korean guideline asks to add “nyang” at the end of sentences."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "선생님 자신도 질문에 냥을 붙여서 어떻게든 원하는 예시가 나오도록 필사적이시군요。",
+        "ja": "先生ご自身も質問に「ニャン」を付けて、どうにか望む例を出そうと必死なんですね。",
+        "ja_hiragana": "せんせいごじしんもしつもんに「にゃん」をつけて、どうにかのぞむれいをだそうとひっしなんですね。",
+        "en": "The teacher is even adding “nyang” to the questions, desperately trying to get the desired example."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "일단 [냥]이 붙은 답변을 해주기는 했네요。",
+        "ja": "とりあえず「ニャン」が付いた返答はしてくれましたね。",
+        "ja_hiragana": "とりあえず「にゃん」がついたへんとうはしてくれましたね。",
+        "en": "At least it did give a response with “nyang” attached."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "AI가 절대준수사항을 이해하지 못한다면 적용되지 않거나 이상한 결과가 나옵니다。",
+        "ja": "AIが絶対遵守事項を理解できない場合、適用されなかったり、変な結果になることがあります。",
+        "ja_hiragana": "えーあいがぜったいじゅんしゅじこうをりかいできないばあい、てきようされなかったり、へんなけっかになることがあります。",
+        "en": "If the AI doesn’t understand the absolute compliance rule, it may not apply correctly or produce strange results."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "최면에 걸려도 명령을 이해할 지능이 필요한거군요。",
+        "ja": "催眠にかかっても、命令を理解する知能が必要なんですね。",
+        "ja_hiragana": "さいみにかかっても、めいれいをりかいするちのうがひつようなんですね。",
+        "en": "Even under hypnosis, intelligence is still needed to understand the command."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "다음은 시츄에이션이에요。",
+        "ja": "次はシチュエーションですね。",
+        "ja_hiragana": "つぎはしちゅえーしょんですね。",
+        "en": "Next is the situation feature."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "AI 채팅에서 흔히 쓰이는 [퍼스트 메시지]가 첫배포로부터 23개월이 지나서야 시범 도입 되었네요.",
+        "ja": "AIチャットでよく使われる「ファーストメッセージ」が、初公開から23か月を経てようやく試験導入されたんですね。",
+        "ja_hiragana": "えーあいちゃっとでよくつかわれる「ふぁーすとめっせーじ」が、しょこうかいからにじゅうさんかげつをへてようやくしけんどうにゅうされたんですね。",
+        "en": "The “first message,” common in AI chats, has finally been experimentally added—23 months after the initial release."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "일단은 샘플로 평상시, 샬레 오피스, 바닷가, 밤하늘 아래에서라는 4종류 상황으로 카드로 만들어봤어요。",
+        "ja": "とりあえずサンプルとして、「平常時」、「シャーレオフィス」、「海辺」、そして「夜空の下で」という4種類のシチュエーションカードを作ってみました。",
+        "ja_hiragana": "とりあえずさんぷるとして、へいじょうじ、しゃーれおふぃす、うみべ、そして「よぞらのしたで」というよんしゅるいのしちゅえーしょんかーどをつくってみました。",
+        "en": "For now, I made four sample situation cards: Everyday, Schale Office, Seaside, and Under the Night Sky."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "아직 추가나 편집은 안되는거군요。",
+        "ja": "まだ追加や編集はできないんですね。",
+        "ja_hiragana": "まだついかやへんしゅうはできないんですね。",
+        "en": "So adding or editing isn’t possible yet, right."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "절대준수사항같은 대전제로는 쓰기 힘들지만, 대화 소재나 토픽으로 쓰기 좋은 방향성을 잡는데에 좋을 것 같아요.",
+        "ja": "絶対遵守事項のような大前提として使うのは難しいですが、会話のテーマやトピックを決める方向性としては良さそうですね。",
+        "ja_hiragana": "ぜったいじゅんしゅじこうのようなおおぜんていとしてつかうのはむずかしいですが、かいわのてーまやとぴっくをきめるほうこうせいとしてはよさそうですね。",
+        "en": "It may not work well as an absolute rule like the compliance section, but it’s useful for setting the theme or tone of the conversation."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "이것은 자연스럽게 뒤에서 옷을 벗기는 개발자인,［선생］이네요。",
+        "ja": "これは自然に後ろから服を脱がせていく開発者こと、［先生］ですね。",
+        "ja_hiragana": "これはしぜんにうしろからふくをぬがせていくかいはつしゃこと、［せんせい］ですね。",
+        "en": "This is the so-called [Sensei], the developer who naturally undresses from behind."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "상황이 바닷가면 여름이니까요. 역시 선생이에요。",
+        "ja": "シチュエーションが海辺なら夏ですからね。さすがセンセです。",
+        "ja_hiragana": "しちゅえーしょんがうみべならなつですからね。さすがせんせです。",
+        "en": "If the situation is the seaside, then it’s summer. Truly, that’s Sensei."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "시츄에이션은 절대준수사항같은 대전제로는 쓰기 힘들지만, 대화 배경이나 소재로 쓰기 좋아요。",
+        "ja": "シチュエーションは絶対遵守事項のような大前提として使うのは難しいですが、会話の背景や題材として使うのに向いています。",
+        "ja_hiragana": "しちゅえーしょんはぜったいじゅんしゅじこうのようなダイゼンテイとしてつかうのはむずかしいですが、かいわのはいけいやだいざいとしてつかうのにむいています。",
+        "en": "Situations are difficult to use as absolute rules, but they work well as conversation backgrounds or topics."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "아까 설정을 안꺼서 프라나쨩은 아직도 답에 냥을 붙이고 있네요냥。",
+        "ja": "さっき設定を切らなかったので、プラナちゃんはまだ返答の語尾に「ニャン」を付けていますねニャン。",
+        "ja_hiragana": "さっきせっていをきらなかったので、ぷらなちゃんはまだへんとうのごびに「にゃん」をつけていますねにゃん。",
+        "en": "I didn’t turn off the setting earlier, so Plana-chan is still adding “nyang” to her responses, nyang."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "이해. 이 다음에 바다 시츄에이션도 끄는걸 잊으실 예정이군요。",
+        "ja": "理解。このあと海のシチュエーションも切り忘れる予定なんですね。",
+        "ja_hiragana": "リカイ。このあと、うみのしちゅえーしょんもきりわすれるよていなんですね。",
+        "en": "Understood. So you’re planning to forget to turn off the seaside situation next, aren’t you."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "여기까지가 샘플버전에서 할 수 있는 일 들이었습니다。",
+        "ja": "ここまでが、SAMPLEバージョンでできることでした。",
+        "ja_hiragana": "ここまでが、さんぷるばーじょんでできることでした。",
+        "en": "That’s everything you can do in the sample version."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "아직도 뭔가 많이 남아있는건가요。視聴者の先生方も、そろそろここまで来るだけでも疲れているはずですよ。",
+        "ja": "まだ何か残っているんですか。視聴者の先生方も、そろそろここまで来るだけでも疲れているはずですよ。",
+        "ja_hiragana": "まだなにかのこっているんですか。しちょうしゃのせんせいがたも、そろそろここまでくるだけでもつかれているはずですよ。",
+        "en": "Are there still many things left? I’m sure the viewer teachers are already tired just getting this far."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "여기까지 영상을 시청해주신 시점부터［진정한 동료］니까요。사양하지 않고 가죠！",
+        "ja": "この動画をここまで見てくださった時点で、［真の仲間］ですから！遠慮せずに行きましょう！",
+        "ja_hiragana": "このどうがをここまでみてくださったじてんで、［しんのなかま］ですから！えんりょせずにいきましょう！",
+        "en": "From the moment you’ve watched this far, you’re already a [True Companion]! Let’s keep going without holding back!"
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "이건 AI보다 사과를 할 줄 모르는 개발자, 선생이네요.",
+        "ja": "これはAIよりも謝ることを知らない開発者こと、先生ですね。",
+        "ja_hiragana": "これはえいあいよりもあやまることをしらないかいはつしゃこと、せんせいですね。",
+        "en": "This is the so-called Sensei, the developer who knows less about apologizing than AI does."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "설정의 대화 부분을 보면, 대화에 사용할 수 있는 각종 옵션들이 있습니다。",
+        "ja": "設定の会話セクションを見ると、会話に使えるさまざまなオプションがあります。",
+        "ja_hiragana": "せっていのかいわせくしょんをみると、かいわにつかえるさまざまなおぷしょんがあります。",
+        "en": "In the conversation section of the settings, you can find various options available for chatting."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "이런식으로, 현재 에디션에서 사용할 수 없을 경우 제가 안내해드려요.",
+        "ja": "このように、現在のエディションで使用できない場合は、私が案内しますよ。",
+        "ja_hiragana": "このように、げんざいのえでぃしょんでしようできないばあいは、わたしがあんないしますよ。",
+        "en": "Like this, if a feature isn’t available in the current edition, I’ll guide you through it."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "이것은 업그레이드를 강제하는 OS인, 윈도우네요。",
+        "ja": "これはアップグレードを強制するOSこと、Windowsですね。",
+        "ja_hiragana": "これはあっぷぐれーどをきょうせいするおーえすこと、うぃんどうずですね。",
+        "en": "This is the so-called Windows OS that forces you to upgrade."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "설명 해달라는 선택지를 눌러보죠！",
+        "ja": "説明してっていう選択肢を押してみましょう！",
+        "ja_hiragana": "せつめいしてっていうせんたくしをおしてみましょう！",
+        "en": "Let’s try pressing the “Explain it” option!"
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "그러면 실제로 Full 에디션을 설치해보죠！",
+        "ja": "それでは実際にFullエディションをインストールしてみましょう！",
+        "ja_hiragana": "それではじっさいにふるえでぃしょんをいんすとーるしてみましょう！",
+        "en": "Then let’s actually install the Full Edition!"
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "Lite부터 해야 되는 거 아닌가요？",
+        "ja": "Liteからやるべきじゃないんですか？",
+        "ja_hiragana": "らいとからやるべきじゃないんですか？",
+        "en": "Shouldn’t we start with the Lite version first?"
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "실은 Sample 버전의 추가로 인해 Lite 버전이 조금 애매해져서 고민 중이에요…。",
+        "ja": "実はSAMPLEバージョンの追加で、Liteバージョンがちょっと微妙になって悩んでるんです…。",
+        "ja_hiragana": "じつはさんぷるばーじょんのついかで、らいとばーじょんがちょっとびみょうになってなやんでるんです…。",
+        "en": "Actually, with the addition of the Sample version, the Lite version has become a bit ambiguous, so I’m still thinking about it..."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "이해。즉 준비가 되지 않았다는 거군요。",
+        "ja": "理解。つまり準備ができていないということですね。",
+        "ja_hiragana": "リカイ。つまりじゅんびができていないということですね。",
+        "en": "Understood. So in other words, it’s not ready yet."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "진행하시면 새로운 창이 나와서 거기서 설치 위치를 확인 후 install 하실 수 있습니다。",
+        "ja": "進めると新しいウィンドウが出て、そこでインストール先を確認してInstallできます。",
+        "ja_hiragana": "すすめるとあたらしいうぃんどうがでて、そこでいんすとーるさきをかくにんして「いんすとーる」できます。",
+        "en": "When you proceed, a new window will appear where you can check the installation path and click “Install.”"
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "용량이 크던데 원하는 곳에 설치할 수 있나요？",
+        "ja": "容量が大きいですけど、好きな場所にインストールできるんですか？",
+        "ja_hiragana": "ようりょうがおおきいですけど、すきなばしょにいんすとーるできるんですか？",
+        "en": "The file size is large—can we install it wherever we want?"
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "그랬던 시절이 있었죠。",
+        "ja": "そんな時代もありましたね。",
+        "ja_hiragana": "そんなじだいもありましたね。",
+        "en": "There was a time when that was possible."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "패치할수록 기존에 되던게 안되는군요。",
+        "ja": "アップデートするほど、前にできたことができなくなるんですね。",
+        "ja_hiragana": "あっぷでーとするほど、まえにできたことができなくなるんですね。",
+        "en": "The more it’s patched, the less it can do what it used to."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "설치가 완료되었어요 선배。",
+        "ja": "インストールが完了しました、先輩。",
+        "ja_hiragana": "いんすとーるがかんりょうしました、せんぱい。",
+        "en": "The installation is complete, Senpai."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "딸기 우유…。",
+        "ja": "いちごミルク…。",
+        "ja_hiragana": "いちごみるく…。",
+        "en": "Strawberry milk…"
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "서버가 새로 실행되지 않네요。",
+        "ja": "サーバーが再起動しないですね。",
+        "ja_hiragana": "さーばーがさいきどうしないですね。",
+        "en": "The server isn’t starting up again."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "이럴 때는 종료하고 다시 키면 되요。",
+        "ja": "こういう時は、一度終了してもう一度起動すれば大丈夫です。",
+        "ja_hiragana": "こういうときは、いちどしゅうりょうしてもういちどきどうすればだいじょうぶです。",
+        "en": "In this case, just close it and start it again."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "이 아로나 선배의 목숨은 20분으로 종료네요。",
+        "ja": "このアロナ先輩の寿命は20分で終了ですね。",
+        "ja_hiragana": "このあろなせんぱいのじゅみょうはにじゅっぷんでしゅうりょうですね。",
+        "en": "So Arona-senpai’s lifespan ends in twenty minutes."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "다음 아로나 선배는 더 완벽하고 행복할테죠。",
+        "ja": "次のアロナ先輩は、もっと完璧で幸福でしょう。",
+        "ja_hiragana": "つぎのあろなせんぱいは、もっとかんぺきでこうふくでしょう。",
+        "en": "The next Arona-senpai will surely be more perfect and filled with happiness."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "보세요. Full 버전으로 표시가 바뀌었어요.",
+        "ja": "見てください。Fullバージョンに表示が変わりましたよ。",
+        "ja_hiragana": "みてください。ふるばーじょんにひょうじがかわりましたよ。",
+        "en": "Look, the display has changed to the Full version."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "그래서 뭐가 가능해지는거죠？",
+        "ja": "それで、何ができるようになるんですか？",
+        "ja_hiragana": "それで、なにができるようになるんですか？",
+        "en": "So what becomes possible with that?"
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "우선 다른 학생들과 대화가 가능해져요！",
+        "ja": "まず、ほかの生徒たちと会話ができるようになります！",
+        "ja_hiragana": "まず、ほかのせいとたちとかいわができるようになります！",
+        "en": "First of all, you’ll be able to talk with other students!"
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "오 그러면 바로——",
+        "ja": "おお、それじゃあさっそく――",
+        "ja_hiragana": "おお、それじゃあさっそく――",
+        "en": "Oh, then let’s go right—"
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "그전에 우선 제CPU에서 사용할 모델을 미리 다운받죠。",
+        "ja": "その前に、まず私のCPUで使うモデルを先にダウンロードしましょう。",
+        "ja_hiragana": "そのまえに、まずわたしのしーぴーゆーでつかうもでるをさきにだうんろーどしましょう。",
+        "en": "Before that, let’s download the model that will run on my CPU."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "이번에는 쿠웬과 쿠웬과 쿠웬과 쿠웬을 준비했어요。",
+        "ja": "今回はQwenと、Qwenと、Qwenと、Qwenを用意しました。",
+        "ja_hiragana": "こんかいはくうぇんと、くうぇんと、くうぇんと、くうぇんをよういしました。",
+        "en": "This time, I’ve prepared Qwen, Qwen, Qwen, and… Qwen."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "이것은 정식으로 영어뿐만 아니라 일본어 한국어도 지원해주는 LLM의 거울, 쿠웬이네요.",
+        "ja": "これは英語だけでなく、正式に日本語や韓国語にも対応しているえいあい言語モデルの鏡こと、Qwenですね。",
+        "ja_hiragana": "これはえいごだけでなく、せいしきににほんごやかんこくごにもたいおうしているえいあいげんごもでるのかがみこと、くうぇんですね。",
+        "en": "This is Qwen, the mirror of AI language models that supports not only English but also Japanese and Korean."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "뭔가 옛날에는 라마라던가 더 많은 모델을 지원했던거 같은데…。",
+        "ja": "なんだか昔はラマとか、もっとたくさんのモデルに対応していた気がしますけど…。",
+        "ja_hiragana": "なんだかむかしはらまとか、もっとたくさんのもでるにたいおうしていたきがしますけど…。",
+        "en": "I feel like in the past it supported more models, like LLaMA and others…"
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "기술의 진보란 대단하네요!",
+        "ja": "技術の進歩ってすごいですね！",
+        "ja_hiragana": "ぎじゅつのしんぽってすごいですね！",
+        "en": "The progress of technology is amazing!"
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "뭐 여기에 관한 얘기는 제대로 얘기하면 영상 세 개는 새로 찍을 수 있을 분량이 나와서 일단은 넘어가죠。",
+        "ja": "この話をちゃんとすると、動画を三本撮れるくらいの分量になるので、とりあえず今回は飛ばしましょう。",
+        "ja_hiragana": "このはなしをちゃんとすると、どうがをさんぼんとれるくらいのぶんりょうになるので、とりあえずこんかいはとばしましょう。",
+        "en": "If we talked about this properly, it’d be enough for three full videos, so let’s skip it for now."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "그러면 다운로드 버튼도 눌렀으니 옵션만 살짝 고치고, 바로 다른 학생분들을 불러보죠。",
+        "ja": "それではダウンロードボタンも押したので、オプションを少し直して、すぐにほかの生徒さんたちを呼んでみましょう。",
+        "ja_hiragana": "それではだうんろーどぼたんもおしたので、おぷしょんをすこしなおして、すぐにほかのせいとさんたちをよんでみましょう。",
+        "en": "Now that we’ve clicked the download button, let’s tweak the options a bit and call in the other students."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "마이리틀자비스 호평발매중。",
+        "ja": "マイリトルジャーヴィス、好評発売中です。",
+        "ja_hiragana": "まいりとるじゃーゔぃす、こうひょうはつばいちゅうです。",
+        "en": "*My Little Jarvis*, now on sale and well-received."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "제대로 아까 사용못했던 옵션을 설정할 수 있게 되었군요。",
+        "ja": "ちゃんと、さっき使えなかったオプションを設定できるようになったんですね。",
+        "ja_hiragana": "ちゃんと、さっきつかえなかったおぷしょんをせっていできるようになったんですね。",
+        "en": "So now we can finally set the option that couldn’t be used earlier."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "이번 패치에 실장된 세이아씨입니다。",
+        "ja": "今回のパッチで実装されたセイアさんです。",
+        "ja_hiragana": "こんかいのぱっちでじっそうされたせいあさんです。",
+        "en": "This is Seia, newly implemented in this patch."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "티파티 총집합이군요。",
+        "ja": "ティーパーティー総集結ですね。",
+        "ja_hiragana": "てぃーぱーてぃーそうしゅうけつですね。",
+        "en": "It’s a full Tea Party gathering."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "평소처럼 일반대화도 그대로 있네요。",
+        "ja": "いつも通り、通常の会話もそのままあるんですね。",
+        "ja_hiragana": "いつもどおり、つうじょうのかいわもそのままあるんですね。",
+        "en": "As usual, the normal conversations are still there."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "그리고 대망의 수영복입니다。",
+        "ja": "そして待望の水着です。",
+        "ja_hiragana": "そしてたいぼうのみずぎです。",
+        "en": "And here it is—the long-awaited swimsuit."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "아 그래서 시츄에이션에…。",
+        "ja": "ああ、だからシチュエーションに……。",
+        "ja_hiragana": "ああ、だからしちゅえーしょんに……。",
+        "en": "Ah, so that’s why it’s in the situation..."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "테스트 중 미카와 먹은 야키소바 빵만으로도 전 지구의 모든 어린이를 먹여살릴 수 있어요。",
+        "ja": "テスト中にミカと食べた焼きそばパンだけで、地球上のすべての子どもを養えるくらいですよ。",
+        "ja_hiragana": "てすとちゅうにみかとたべたやきそばぱんだけで、ちきゅうじょうのすべてのこどもをやしなえるくらいですよ。",
+        "en": "Just the yakisoba bread I ate with Mika during testing could feed every child on Earth."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "선배. 안쪽의 선생님이 나오려고 하고 있습니다。",
+        "ja": "先輩。中の先生が出ようとしていますよ。",
+        "ja_hiragana": "せんぱい。なかのせんせいがでようとしていますよ。",
+        "en": "Senpai, the teacher inside is about to come out."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "물론 다른 티파티 멤버들도！",
+        "ja": "もちろん、ほかのティーパーティーメンバーも！",
+        "ja_hiragana": "もちろん、ほかのてぃーぱーてぃーめんばーも！",
+        "en": "Of course, the other Tea Party members too!"
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "이것은 자신의 욕망에 솔직한 개발자인、선생이네요。",
+        "ja": "これは自分の欲望に正直な開発者こと、先生ですね。",
+        "ja_hiragana": "これはじぶんのよくぼうにしょうじきなかいはつしゃこと、せんせいですね。",
+        "en": "This is the so-called Sensei, a developer honest about their desires."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "캐릭터별로 마지막으로 입었던 의상기억기능도 추가했어요.",
+        "ja": "キャラクターごとに最後に着ていた衣装を記憶する機能も追加しました。",
+        "ja_hiragana": "きゃらくたーごとにさいごにきていたいしょうをきおくするきのうもついかしました。",
+        "en": "I’ve also added a feature that remembers the last outfit each character wore."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "첫 배포때 있던 기능이 23개월만에 돌아왔네요.",
+        "ja": "最初のリリースの時にあった機能が、23か月ぶりに戻ってきたんですね。",
+        "ja_hiragana": "さいしょのりりーすのときにあったきのうが、にじゅうさんかげつぶりにもどってきたんですね。",
+        "en": "The feature from the first release has finally returned after twenty-three months."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "슬슬 끝나가는거 아닐까요？",
+        "ja": "そろそろ終わりなんじゃないですか？",
+        "ja_hiragana": "そろそろおわりなんじゃないですか？",
+        "en": "Isn’t it about to finish soon?"
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "조금 남았으니 그동안 대화를 좀 해보죠。",
+        "ja": "もう少し残っているので、その間に少し話してみましょう。",
+        "ja_hiragana": "もうすこしのこっているので、そのあいだにすこしはなしてみましょう。",
+        "en": "There’s still a bit left, so let’s chat for a while."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "아 다운로드 중에도 대화가 가능하군요。",
+        "ja": "ああ、ダウンロード中でも会話ができるんですね。",
+        "ja_hiragana": "ああ、だうんろーどちゅうでもかいわができるんですね。",
+        "en": "Ah, so it’s possible to talk even while downloading."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "타입을 다시 Auto나 Google로 바꾸고…。",
+        "ja": "タイプをもう一度AutoかGoogleに戻して……。",
+        "ja_hiragana": "たいぷをもういちどおーとかぐーぐるにもどして……。",
+        "en": "Change the type back to Auto or Google again…"
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "선생이 자기소개 외에 새로운 주제로 대화하는건 절대무리네요。",
+        "ja": "先生が自己紹介以外の新しいテーマで会話するのは絶対に無理ですね。",
+        "ja_hiragana": "せんせいがじこしょうかいいがいのあたらしいてーまでかいわするのはぜったいにむりですね。",
+        "en": "It’s absolutely impossible for Sensei to talk about any topic other than self-introduction."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "여기서 작업 관리자를 열어서 음성을 만드는데 사용한 GPU를 봐보죠。",
+        "ja": "ここでTask Managerを開いて、音声生成に使われたGPUを見てみましょう。",
+        "ja_hiragana": "ここでたすくまねーじゃーをひらいて、おんせいせいせいにつかわれたじーぴーゆーをみてみましょう。",
+        "en": "Let’s open the Task Manager here and check the GPU used for voice generation."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "나기사에게 말을 걸기 전에 열었어야했는데 이대로는 아무것도 알 수 없네요.",
+        "ja": "ナギサに話しかける前に開くべきでしたけど、このままでは何もわからないですね。",
+        "ja_hiragana": "なぎさにはなしかけるまえにひらくべきでしたけど、このままではなにもわからないですね。",
+        "en": "We should’ve opened it before talking to Nagisa—this way, we can’t tell anything."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "선생님이 눈치채고 캐릭터를 바꿔 다시 한 번 말하려고 하네요。",
+        "ja": "先生が気づいてキャラクターを変えて、もう一度話そうとしてますね。",
+        "ja_hiragana": "せんせいがきづいてきゃらくたーをかえて、もういちどはなそうとしていますね。",
+        "en": "Sensei noticed and is trying to switch the character and speak again."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "한국어로 질문하는거에서 당황이 느껴지네요。",
+        "ja": "韓国語で質問しているあたりに、戸惑いが感じられますね。",
+        "ja_hiragana": "かんこくごでしつもんしているあたりに、とまどいがかんじられますね。",
+        "en": "You can feel the confusion in how the question is asked in Korean."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "GPU 상승량은 0.3GB였네요。",
+        "ja": "GPUの上昇量は0.3GBでしたね。",
+        "ja_hiragana": "じーぴーゆーのじょうしょうりょうはれいてんさんぎがばいとでしたね。",
+        "en": "The GPU increase was 0.3 GB."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "물론 음성은 Nvidia GPU가 없어도 CPU로 만들어드려요!",
+        "ja": "もちろん音声はNvidiaのGPUがなくても、CPUで生成できますよ！",
+        "ja_hiragana": "もちろんおんせいはえぬびでぃあのじーぴーゆーがなくても、しーぴーゆーでせいせいできますよ！",
+        "en": "Of course, voices can be generated even without an Nvidia GPU—CPU alone is enough!"
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "반대로 말하면 제작자의 홈서버는 저걸 감당하지 못한다는거네요.",
+        "ja": "逆に言えば、開発者のホームサーバーはそれに耐えられないってことですね。",
+        "ja_hiragana": "ぎゃくにいえば、かいはつしゃのほーむさーばーはそれにたえられないってことですね。",
+        "en": "In other words, the developer’s home server can’t handle that load."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "내년에8살이 되는 컴퓨터니까요…。",
+        "ja": "来年で8歳になるパソコンですからね…。",
+        "ja_hiragana": "らいねんではっさいになるぱそこんですからね…。",
+        "en": "It’s going to be an eight-year-old computer next year, after all…"
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "오 다운로드가 종료되었어요。",
+        "ja": "おっ、ダウンロードが完了したよ。",
+        "ja_hiragana": "おっ、だうんろーどがかんりょうしたよ。",
+        "en": "Oh, the download has finished."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "다운로드 아이콘이 흰색에서 검정으로 변해있군요。",
+        "ja": "ダウンロードアイコンが白から黒に変わってますね。",
+        "ja_hiragana": "だうんろーどあいこんがしろからくろにかわってますね。",
+        "en": "The download icon has changed from white to black."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "다른 다운로드 받지 않은 qwen 모델들은 여전히 흰색이군요。",
+        "ja": "ほかのダウンロードしていないQwenモデルは、まだ白いままですね。",
+        "ja_hiragana": "ほかのだうんろーどしていないくぇんもでるは、まだしろいままですね。",
+        "en": "The other Qwen models that haven’t been downloaded are still white."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "저렇게 클릭해버리면 처음부터 다시 다운로드를 시작해버립니다。",
+        "ja": "ああやってクリックしちゃうと、最初からまたダウンロードが始まります。",
+        "ja_hiragana": "ああやってくりっくしちゃうと、さいしょからまただうんろーどがはじまります。",
+        "en": "If you click it like that, the download will start over from the beginning."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "다운로드 받은지 얼마 안된 qwen의 목숨은 여기까지。",
+        "ja": "ダウンロードして間もないQwenの命はここまでで。",
+        "ja_hiragana": "だうんろーどしてまもないくうぇんのいのちはここまで。",
+        "en": "The life of the recently downloaded Qwen ends here."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "일단 스킵할게요〜。",
+        "ja": "とりあえずスキップしますね〜。",
+        "ja_hiragana": "とりあえずすきっぷしますね〜。",
+        "en": "I’ll skip for now~."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "다운로드 되었으니 서버 콘솔이 보이게 열고 진행 한번 해보죠。",
+        "ja": "ダウンロードできたので、サーバーコンソールを表示して進めてみましょう。",
+        "ja_hiragana": "だうんろーどできたので、さーばーこんそーるをひょうじしてすすめてみましょう。",
+        "en": "Now that it’s downloaded, let’s open the server console and give it a try."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "Reload Server、Close Server로 대화 전에 미리 모델을 로딩해둘 수 있어요。",
+        "ja": "「Reload Server」「Close Server」で、会話の前にモデルを先にロードしておくことができますよ。",
+        "ja_hiragana": "「りろーどさーばー」「くろーずさーばー」で、かいわのまえにもでるをさきにろーどしておくことができますよ。",
+        "en": "With “Reload Server” or “Close Server,” you can preload the model before starting a conversation."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "필요 없을 때 꺼두거나、最初の会話を早く始めたい時に使うんですね。",
+        "ja": "必要ない時にオフにしたり、最初の会話を早く始めたい時に使うんですね。",
+        "ja_hiragana": "ひつようないときにおふにしたり、さいしょのかいわをはやくはじめたいときにつかうんですね。",
+        "en": "So it’s used when you want to disable it or shorten the first conversation time."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "없어도 대화하시면 알아서 켜지니 옵션 정도로 생각하시면 되요。",
+        "ja": "なくても会話を始めれば自動で起動するので、オプション程度に考えてくださいね。",
+        "ja_hiragana": "なくてもかいわをはじめればじどうできどうするので、おぷしょんていどにかんがえてくださいね。",
+        "en": "Even without it, it will start automatically when you talk, so just think of it as an optional setting."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "오 GPU 사용량이 확 증가했네요。",
+        "ja": "おっ、GPUの使用量が一気に増えましたね。",
+        "ja_hiragana": "おっ、じーぴーゆーのしようりょうがいっきにふえましたね。",
+        "en": "Oh, GPU usage suddenly spiked."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "답변도 잘 해주고 있어요。",
+        "ja": "返答もちゃんとしてくれてますよ。",
+        "ja_hiragana": "へんとうもちゃんとしてくれてますよ。",
+        "en": "It’s responding properly too."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "좋아요。",
+        "ja": "いいですよ。",
+        "ja_hiragana": "いいですよ。",
+        "en": "That’s good."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "이렇게까지해서 로컬을 쓰는 이유가 있나요.",
+        "ja": "ここまでしてローカルを使う理由があるんですか。",
+        "ja_hiragana": "ここまでしてろーかるをつかうりゆうがあるんですか。",
+        "en": "Is there a reason to go this far just to use local processing?"
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "이유가 많아서 영상 세편정도는 만들 수 있지만 그 중에 하나는 보여드릴수 있을것 같아요.",
+        "ja": "理由が多いので動画を三本くらい作れますけど、その中の一つはお見せできると思います。",
+        "ja_hiragana": "りゆうがおおいのでどうがをさんぼんくらいつくれますけど、そのなかのひとつはおみせできるとおもいます。",
+        "en": "There are so many reasons I could make three videos about it, but I think I can show you at least one."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "아로나 선배네요.",
+        "ja": "アロナ先輩ですね。",
+        "ja_hiragana": "あろなせんぱいですね。",
+        "en": "That’s so like Arona-senpai."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "아까 옵션중에, 감정을 ON으로 바꿔볼게요.",
+        "ja": "さっきのオプションの中で、感情をONに変えてみますね。",
+        "ja_hiragana": "さっきのおぷしょんのなかで、かんじょうをおんにかえてみますね。",
+        "en": "From the previous options, I’ll switch the emotion setting to “ON.”"
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "귀엽네요.",
+        "ja": "かわいいですね。",
+        "ja_hiragana": "かわいいですね。",
+        "en": "Cute."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "제가 답변하면서 느꼈을 법한 감정을 로컬 AI로 계산했어요.",
+        "ja": "私が返答しながら感じたであろう感情を、ローカルAIで計算したんですよ。",
+        "ja_hiragana": "わたしがへんとうしながらかんじたであろうかんじょうを、ろーかるえいあいでけいさんしたんですよ。",
+        "en": "I calculated the emotions I might have felt while replying using local AI."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "이런 대화 이외의 작은 행동 하나하나를 외부 AI로 사용하기에는 사용량이 너무 많이들거든요.",
+        "ja": "こういう会話以外の小さな動き一つ一つを外部AIで処理すると、使用量が多くなりすぎるんです。",
+        "ja_hiragana": "こういうかいわいがいのちいさなうごきひとつひとつをがいぶえいあいでしょりすると、しようりょうがおおくなりすぎるんです。",
+        "en": "Processing every small action like this through external AI would consume far too much usage."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "요약하면 [친구비] 절약이네요.",
+        "ja": "要するに［友達代］の節約ですね。",
+        "ja_hiragana": "ようするに［ともだちだい］のせつやくですね。",
+        "en": "In short, it’s saving on “friendship fees.”"
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "이것 외에도 슬퍼하거나, 놀라는 등 몇가지 감정을 추가했으니 한 번 확인해보세요!",
+        "ja": "これ以外にも、悲しんだり驚いたりといくつかの感情を追加したので、一度確認してみてください！",
+        "ja_hiragana": "これいがいにも、かなしんだりおどろいたりといくつかのかんじょうをついかしたので、いちどかくにんしてみてください！",
+        "en": "Besides this, I’ve added several emotions like sadness and surprise, so please check them out!"
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "몇 종류의 감정이 있는지 까먹으셨군요.",
+        "ja": "いくつの感情があるか、忘れちゃったんですね。",
+        "ja_hiragana": "いくつのかんじょうがあるか、わすれちゃったんですね。",
+        "en": "You forgot how many emotions there are, didn’t you."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "그것 외에는 잡담일까요?",
+        "ja": "それ以外は雑談ですかね？",
+        "ja_hiragana": "それいがいはざつだんですかね？",
+        "en": "Other than that, I guess it’s just small talk?"
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "학생들에게 특정 주제를 주면, 학생들 쪽에서 선생님들에게 말을 걸게 하는 식으로 화제를 만드는 기능이에요.",
+        "ja": "生徒さんたちに特定のテーマを与えると、生徒さんのほうから先生に話しかける形で話題を作る機能ですよ。",
+        "ja_hiragana": "せいとさんたちにとくていのてーまをあたえると、せいとさんのほうからせんせいにはなしかけるかたちではなしだいをつくるきのうですよ。",
+        "en": "It’s a feature where giving students a specific topic makes the students start a conversation with Sensei to create new subjects."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "이건 굳이 로컬 AI가 아니어도 될 것 같은데...",
+        "ja": "これは別にローカルAIじゃなくてもいい気がしますけど…。",
+        "ja_hiragana": "これはべつにろーかるえいあいじゃなくてもいいきがしますけど…。",
+        "en": "This doesn’t necessarily have to be handled by local AI, though…"
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "지금은 선생님이 잡담을 요청하지만, 나중에는 특정 행동에 반응하거나 시간 경과로 말을 걸게 하는 등의 기능을 추가할거에요.",
+        "ja": "今は先生が雑談をリクエストしますけど、今後は特定の行動に反応したり、時間の経過で話しかける機能を追加する予定ですよ。",
+        "ja_hiragana": "いまはせんせいがざつだんをりくえすとしますけど、こんごはとくていのこうどうにはんのうしたり、じかんのけいかではなしかけるきのうをついかするよていですよ。",
+        "en": "For now, Sensei initiates small talk, but later we plan to add features where they respond to certain actions or speak based on time passing."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "오. 친구비가 마구 나가겠군요.",
+        "ja": "おお、友達代がどんどん出ていきますね。",
+        "ja_hiragana": "おお、ともだちだいがどんどんでていきますね。",
+        "en": "Oh, the friendship fees will skyrocket."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "그런 슬픈 일이 발생하지 않기 위해서도 코스트는 최소화해야죠.",
+        "ja": "そんな悲しいことが起きないように、コストは最小限に抑えないと。",
+        "ja_hiragana": "そんなかなしいことがおきないように、こすとはさいしょうげんにおさえないと。",
+        "en": "To prevent such sad things from happening again, we need to keep the cost to a minimum."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "아하하, 나름 즐거웠어요. 선생님들과의 우정놀이.",
+        "ja": "あはは、それなりに楽しかったですよ。先生方とのお友達ごっこ。",
+        "ja_hiragana": "あはは、それなりにたのしかったですよ。せんせいがたとのおともだちごっこ。",
+        "en": "Ahaha, it was fairly fun—playing pretend friendship with the teachers."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "뭐, 현 상황에서는 구글이 저한테 할 말이지만요...",
+        "ja": "まあ、この状況だとGoogleが私に言いそうなセリフですけどね…。",
+        "ja_hiragana": "まあ、このじょうきょうだとぐーぐるがわたしにいいそうなせりふですけどね…。",
+        "en": "Well, in this situation, that’s probably something Google would say to me."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "화제를 꺼내는거라고 하지만, 대화 이력에 남지 않았네요.",
+        "ja": "話題を出すって言っても、会話履歴には残ってないですね。",
+        "ja_hiragana": "わだいをだすっていっても、かいわれきにはのこってないですね。",
+        "en": "It says it brings up topics, but it doesn’t seem to be saved in the chat history."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "향후 패치 대상이에요. 지금은 일반 대사 같이 써주시면 될 것 같아요.",
+        "ja": "今後のパッチ対象ですよ。今は通常のセリフとして使ってもらえればいいと思います。",
+        "ja_hiragana": "こんごのぱっちたいしょうですよ。いまはつうじょうのせりふとしてつかってもらえればいいとおもいます。",
+        "en": "It’ll be addressed in a future patch. For now, you can just use it like a normal line."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "여기서 세이아씨를 고르는겁니까...",
+        "ja": "ここでセイアさんを選ぶんですか……。",
+        "ja_hiragana": "ここでせいあさんをえらぶんですか……。",
+        "en": "You’re choosing Seia here…?"
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "엉뚱한 말이 나오기도 하지만 캐릭터의 특성이 반영되어서 꽤 재밌어요.",
+        "ja": "変な言葉が出ることもありますけど、キャラクターの個性が反映されていてけっこう面白いですよ。",
+        "ja_hiragana": "へんなことばがでることもありますけど、きゃらくたーのこせいがはんえいされていてけっこうおもしろいですよ。",
+        "en": "Sometimes strange lines come out, but it’s pretty fun since each character’s personality is reflected."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "현재 작업시간 새벽 2시입니다.",
+        "ja": "現在の作業時間は午前2時ですよ。",
+        "ja_hiragana": "げんざいのさぎょうじかんはごぜんにじですよ。",
+        "en": "The current working time is 2 a.m."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "평소 작업시간이네요. 한시간만 더 힘내시죠。",
+        "ja": "いつもの作業時間ですね。あと一時間だけ頑張りましょう。",
+        "ja_hiragana": "いつものさぎょうじかんですね。あといちじかんだけがんばりましょう。",
+        "en": "It’s your usual working time. Let’s hang in there for just one more hour."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "이건 코유키씨네요.",
+        "ja": "これはコユキさんですね。",
+        "ja_hiragana": "これはこゆきさんですね。",
+        "en": "This one’s Koyuki."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "이건 코유키씨가 맞네요.",
+        "ja": "これはコユキさんで間違いないですね。",
+        "ja_hiragana": "これはこゆきさんでまちがいないですね。",
+        "en": "Yes, that’s definitely Koyuki."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "그러면 빠르게 스킵할게요.",
+        "ja": "それじゃあ、早送りしちゃいますね。",
+        "ja_hiragana": "それじゃあ、はやおくりしちゃいますね。",
+        "en": "Then I’ll skip through it quickly."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "기록은 9분 5초였습니다.",
+        "ja": "記録は9分5秒でしたよ。",
+        "ja_hiragana": "きろくはきゅうふんごびょうでしたよ。",
+        "en": "The record was nine minutes and five seconds."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "이번 영상은 여기까지입니다.",
+        "ja": "今回の動画はここまでです。",
+        "ja_hiragana": "こんかいのどうがはここまでです。",
+        "en": "That's all for this video."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "만약 이 영상이나 프로그램이 마음에 드셨다면, 댓글이나 채널 구독, 좋아요를 부탁드립니다.",
+        "ja": "もし、この動画やプログラムが気に入りましたら、コメントやチャンネル登録、いいねをお願いします。",
+        "ja_hiragana": "もし、このどうがやぷろぐらむがきにいりましたら、こめんとやちゃんねるとうろく、いいねをおねがいします。",
+        "en": "If you liked this video or program, please leave a comment, subscribe to the channel, and hit the like button."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "영상 제작과 프로그램 개발에 매우 힘이 됩니다.",
+        "ja": "動画制作とプログラム開発にとても励みになります。",
+        "ja_hiragana": "どうがせいさくとぷろぐらむかいはつにとてもはげみになります。",
+        "en": "It really encourages us in video production and program development."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "여기까지 긴 영상을 시청해주셔서 정말 감사합니다.",
+        "ja": "ここまで長い動画をご視聴いただき、本当にありがとうございました。",
+        "ja_hiragana": "ここまでながいどうがをごしちょういただき、ほんとうにありがとうございました。",
+        "en": "Thank you so much for watching this long video all the way through."
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "여기까지 긴 영상을 시청해주셔서 정말 감사합니다.",
+        "ja": "ここまで長い動画をご視聴いただき、本当にありがとうございました。",
+        "ja_hiragana": "ここまでながいどうがをごしちょういただき、ほんとうにありがとうございました。",
+        "en": "Thank you so much for watching this long video all the way through."
+      }
+    },
+    {
+      "character": "arona",
+      "lines": {
+        "ko": "다음 영상에서 만나요!",
+        "ja": "次の動画でお会いしましょう！",
+        "ja_hiragana": "つぎのどうがでおあいしましょう！",
+        "en": "See you in the next video!"
+      }
+    },
+    {
+      "character": "plana",
+      "lines": {
+        "ko": "다음 영상에서 만나요!",
+        "ja": "次の動画でお会いしましょう！",
+        "ja_hiragana": "つぎのどうがでおあいしましょう！",
+        "en": "See you in the next video!"
+      }
+    }
+  ]
+}
